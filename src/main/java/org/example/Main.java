@@ -15,7 +15,7 @@ public class Main {
     public static void main(String[] args) {
         Message m=new Message();
         Scanner1 sc1=new Scanner1();
-        Splitmethodforlocalandport sm=new Splitmethodforlocalandport();
+        Splitmethodforlocalandport  sm=new Splitmethodforlocalandport();
 
        System.out.println(m.nameandsurname);
         String name= sc1.scString();
